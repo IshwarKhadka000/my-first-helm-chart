@@ -3,12 +3,12 @@ entries:
   myFirstHelmChart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-04T16:12:20.222433+05:45"
+    created: "2023-10-05T10:09:33.19254+05:45"
     description: A Helm chart for Kubernetes
-    digest: d1c26d94f080857befab185b7390877f87b56cbcc35011d782c3e5dc2fc3cdaa
+    digest: 1784000e16e693ed0eb195a562405ed72431f05a2846651acba3c7c9485227d6
     name: myFirstHelmChart
     type: application
     urls:
     - myFirstHelmChart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-04T16:12:20.221404+05:45"
+generated: "2023-10-05T10:09:33.191313+05:45"
